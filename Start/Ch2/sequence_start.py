@@ -57,3 +57,4 @@ myset = {1, 2, 3, 2, 4, "hey"}
 print(1 in mylist)
 print(3 in mytuple)
 print(5 in myset)
+print(3 not in mytuple)
