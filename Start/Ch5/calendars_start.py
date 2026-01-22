@@ -5,10 +5,11 @@
 
 
 import calendar
+from datetime import date 
 
 # create a plain text calendar
 # c = calendar.TextCalendar(calendar.SUNDAY)
-c = calendar.TextCalendar(calendar.MONDAY)
+# c = calendar.TextCalendar(calendar.MONDAY)
 
 # formatmonth() method lets you format a particular month
 # into a text string
